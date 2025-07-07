@@ -23,9 +23,6 @@
       {% assign has_social_is_not_empty = site.data.config.footer.has_social | is_not_empty %}
       {% if has_social_is_not_empty %}
       <div class="follow-us">
-        <div class="newsletter">
-          <a href="{{ site.news_signup }}">Subscribe to newsletter</a>
-        </div>
         <div class="social-links">
           {% for action in site.data.config.footer.social_links %}
             {% include action_link.html action=action %}

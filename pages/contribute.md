@@ -11,20 +11,15 @@ description: Learn how to contribute to the ResponsibleTech.Work framework.
 It is up to all of us to play our part if we want to change how things are done in the tech industry. Sharing the framework and implementing it in practice is already an important step in the right direction. 
 
 But we know that **ResponsibleTech.Work needs to be a living thing that keeps evolving if we want it to have real impact**. And this is where you come in. Because your perspective matters. 
-## What can you contribute?
-
-You can contribute to this project whenever you see something that could be improved or is missing. All contributions, small and big, count. 
-
-You can suggest new resources, help us fix typos, or submit new methodologies, tools and other content that might help make the website more useful to tech workers. Just be sure to read through the [framework's about page](/about/) to learn more about the underlying principles.  
 
 ## How can you contribute?
 
-If you're familiar with GitHub, you can open Issues or submit Pull requests directly in the [website's repository](https://github.com/ResponsibleTechWork/RespTechWork-website). Alternatively, you can send your suggestions to **[{{ site.email }}](mailto:{{ site.email}})**.
+The project is currently not being actively developed, but our framework, ideas, and [repositories](https://github.com/ResponsibleTechWork/) are open source and open to reuse and remix, as long as you give appropriate credit and share alike ([Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)). 
 
-We're currently **looking for more people to join the core team** to increase the diversity of perspectives and make the framework even more inclusive. If you're interested in joining the core team, please send an email to **[{{ site.email }}](mailto:{{ site.email}})**.
+If you have any questions or suggestions regarding the website, you can email us at **[{{ site.email }}](mailto:{{ site.email}})**.
 
-## Core team
+## Contributors
 
-- [Alja Isaković](https://ialja.com/) - founder, active member
-- [Daniel Hartley](https://www.the-public-good.com/) - active member
-- [Chris Oram](https://twitter.com/chrisoram) - inactive member
+- [Alja Isaković](https://ialja.com/) (Founder, 2021—2025)
+- [Daniel Hartley](https://www.the-public-good.com/) (2021—2025)
+- [Chris Oram](https://rewild.digital) (2021)
