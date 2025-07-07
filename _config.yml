@@ -134,6 +134,8 @@ autopages:
     slugify:
       mode: 'default'   # :tag is slugified.
       case: false
+  collections: 
+    enabled: false
 
 # Feed settings
 feed:
